@@ -47,4 +47,7 @@
 <br>
 
 ### Задача со звездочкой
+<br>
+<img width="557" height="297" alt="изображение" src="https://github.com/user-attachments/assets/67c3c6f1-1056-4380-b50e-11e3de1769b5" />
+<br>
 <img width="724" height="954" alt="изображение" src="https://github.com/user-attachments/assets/39dadcaa-d6fe-43ac-a8e9-7f839190c8bb" />
