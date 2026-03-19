@@ -48,6 +48,7 @@
 
 ### Задача со звездочкой
 <br>
-<img width="557" height="297" alt="изображение" src="https://github.com/user-attachments/assets/67c3c6f1-1056-4380-b50e-11e3de1769b5" />
+<img width="462" height="334" alt="изображение" src="https://github.com/user-attachments/assets/6ddc3435-df37-4cc8-9b2f-3ecf34bec48f" />
 <br>
-<img width="724" height="954" alt="изображение" src="https://github.com/user-attachments/assets/39dadcaa-d6fe-43ac-a8e9-7f839190c8bb" />
+<img width="797" height="264" alt="изображение" src="https://github.com/user-attachments/assets/abc05542-b39c-4f3b-aff2-c45e66fa1405" />
+
